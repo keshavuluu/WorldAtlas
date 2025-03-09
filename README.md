@@ -10,7 +10,7 @@ React World Atlas is a basic React-based website that provides an interactive wa
 - ⚡ Built with React for a fast and responsive experience  
 
 **Live Demo**  
-Check it out here: [React World Atlas](https://reactworlddatlass.netlify.app/)  
+Check it out here: [React World Atlas](reactworlddatlass.netlify.app)  
 
 **Technologies Used**  
 - React.js – Frontend framework  
